@@ -56,7 +56,7 @@ Project is created with:
 ## Usage
 
 ```python
-pipenv install petpy beautifulsoup4 Flask-Mail flask python-dotenv
+pipenv install petpy beautifulsoup4 Flask-Mail flask python-dotenv pytest
 
 pipenv shell
 

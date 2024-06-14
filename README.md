@@ -11,6 +11,11 @@ User guide and storyboard:
 
 [project details.pdf](https://github.com/user-attachments/files/15841133/project.details.pdf)
 
+Gitlab commit graph:
+
+[gitlab graph.pdf](https://github.com/user-attachments/files/15841154/gitlab.graph.pdf)
+
+
 ## Technologies
 
 Project is created with:

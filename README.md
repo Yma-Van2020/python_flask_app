@@ -2,20 +2,6 @@
 
 This is a pet adoption app aiming to provide a smooth user experience and give easy acceess to the Petfinder API. After registration, a verification email with a confirmation link will be sent to the user's inbox. It can be resent if expired. Users can choose to view the information of listed animals and start an adoption application. If the pet has been adopted, the application would not go through. Users can search for local pets available for adoption from the Petfinder API. Users can either check out the pet's profile, start an application or add certain pets into their watchlist.
 
-Testing document: 
-
-[testing details.pdf](https://github.com/user-attachments/files/15841135/testing.details.pdf)
-
-
-User guide and storyboard: 
-
-[project details.pdf](https://github.com/user-attachments/files/15841133/project.details.pdf)
-
-Gitlab commit graph:
-
-[gitlab graph.pdf](https://github.com/user-attachments/files/15841154/gitlab.graph.pdf)
-
-
 ## Technologies
 
 Project is created with:
@@ -56,7 +42,7 @@ Project is created with:
 ## Usage
 
 ```python
-pipenv install petpy beautifulsoup4 Flask-Mail flask python-dotenv pytest
+pipenv install petpy beautifulsoup4 Flask-Mail flask python-dotenv
 
 pipenv shell
 

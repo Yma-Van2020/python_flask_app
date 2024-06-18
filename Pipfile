@@ -12,6 +12,7 @@ petpy = "*"
 beautifulsoup4 = "*"
 flask-mail = "*"
 geopy = "*"
+pytest = "*"
 
 [dev-packages]
 

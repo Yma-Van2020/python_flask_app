@@ -8,6 +8,9 @@ This is a pet adoption app aiming to provide a smooth user experience and give e
 
 [deployment guide.pdf](https://github.com/user-attachments/files/15890101/deployment.guide.pdf)
 
+
+**Please choose quality 1080HD
+
 Project demo:
 
 https://drive.google.com/file/d/1iqzkhsGD-MkkO1u1yO7j21rJPU4E6zaD/view?usp=sharing

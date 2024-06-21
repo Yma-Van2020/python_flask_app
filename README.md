@@ -10,8 +10,8 @@ This is a pet adoption app aiming to provide a smooth user experience and give e
 
 Project demo:
 
-https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1cbfad5-fb86-4227-bdba-b18e00555c41
+[https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f1cbfad5-fb86-4227-bdba-b18e00555c41](https://drive.google.com/file/d/1iqzkhsGD-MkkO1u1yO7j21rJPU4E6zaD/view?usp=drive_link)
 
 Deployment demo to AWS:
 
-https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a329bafd-2fd9-4f5c-864f-b1910021a355
+[https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a329bafd-2fd9-4f5c-864f-b1910021a355](https://drive.google.com/file/d/1oUCxD5Z2jJ0l7UTZDOiOM5xTF3pd1SPC/view?usp=sharing)
